@@ -33,13 +33,15 @@
     margin-top: 30px;
     font-size: large;
 }
+.display-style{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
 /* Banner styles */
 .banner-container {
     background: #e554731a;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
 }
 
 .banner-description {
@@ -72,9 +74,6 @@
 }
 
 .features {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     padding-top: 50px;
     padding-left: 240px;
     padding-right: 240px;
@@ -122,9 +121,6 @@
 
 /* Service styles */
 .service-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
     margin-left: 240px;
@@ -158,9 +154,6 @@
 
 /* Deal styles */
 .deal-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     background-color: #E554730D;
     padding-left: 400px;
     padding-right: 400px;
@@ -184,9 +177,6 @@
 }
 
 .insta-img-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     margin-top: 50px;
     margin-bottom: 140px;
     margin-left: 240px;
@@ -209,9 +199,6 @@
     margin-bottom: 100px;
 }
 .subscribe{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     padding-left: 280px;
     padding-right: 280px;
     padding-top: 50px;
