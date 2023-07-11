@@ -1,0 +1,2 @@
+My screen size is 1905. In smaller screen it is not responsive. 
+I'm adding sreenshot of my screen as a pdf file.

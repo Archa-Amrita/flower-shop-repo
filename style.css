@@ -1,7 +1,9 @@
 * {
-    margin: 0px;
+    margin: 0 auto;
     padding: 0px;
     font-family: Lato;
+    width: 1905;
+  max-width: calc(100% - 0px);
 }
 .color{
     color: #E55473;
@@ -184,8 +186,8 @@
 }
 
 .insta-img {
-    width: 340px;
-    height: 380px;
+    max-width: 340px;
+    max-height: 380px;
 }
 
 /* Subscribe styles */
