@@ -10,7 +10,7 @@
     font-weight: bolder;
     text-align: center;
     color: #272727;
-    font-size: 34px;
+    font-size: 40px;
 }
 
 .txt {
@@ -31,6 +31,7 @@
     padding: 20px 43px;
     gap: 10px;
     margin-top: 30px;
+    font-size: large;
 }
 
 /* Banner styles */
@@ -50,23 +51,24 @@
 
 .banner-title {
     color: #272727;
-    font-size: 30px;
-    font-weight: bolder;
-    width: 400px;
+    font-size: 50px;
+    font-weight:1500;
+    width: 800px;
+    font-style: normal;
 }
 
 .banner-img {
     margin-bottom: 0px;
     padding-right: 240px;
-    width: 400px;
-    height: 700px;
+    width: 525px;
+    height: 850px;
     padding-top: 50px;
     background: no-repeat;
 }
 
 /* Feature styles */
 .feature-container {
-    padding-top: 100px;
+    padding-top: 190px;
 }
 
 .features {
@@ -82,40 +84,40 @@
     background-color: #A7216226;
     border-radius: 300px 300px 0px 0px;
     margin: 10px;
-    width: 300px;
-    height: 400px;
+    width: 450px;
+    height: 500px;
 }
 
 #feature2 {
     background-color: #0597A026;
     border-radius: 300px 300px 0px 0px;
     margin: 10px;
-    width: 300px;
-    height: 400px;
+    width: 450px;
+    height: 500px;
 }
 
 #feature3 {
     background-color: #477D1126;
     border-radius: 300px 300px 0px 0px;
     margin: 10px;
-    width: 300px;
-    height: 400px;
+    width: 450px;
+    height: 500px;
 }
 
 .feature-img {
-    width: 200px;
-    height: 300px;
+    width: 330px;
+    height: 400px;
     padding: 100px 50px 0px 50px;
 }
 
 .feature-cap {
     color: #272727;
     text-align: center;
-    font-size: 18px;
-    font-weight: 700;
+    font-size: 24px;
+    font-weight: 500;
     line-height: 35px;
     text-decoration-line: underline;
-    margin-top: 10px;
+    margin-top: 15px;
 }
 
 /* Service styles */
@@ -127,30 +129,31 @@
     background: rgba(39, 39, 39, 0.05);
     margin-left: 240px;
     margin-right: 240px;
-    margin-top: 100px;
+    margin-top: 190px;
     margin-bottom: 100px;
-    height: 220px;
+    height: 320px;
     text-align: center;
 }
 
 #service1 {
-    padding-left: 120px;
+    padding-left: 220px;
 }
 
 #service2 {
-    padding-right: 120px;
+    padding-right: 220px;
 }
 
 .service-icon {
-    height: 50px;
-    width: 50px;
+    height: 80px;
+    width: 80px;
 }
 
 .service-txt {
     color: rgba(39, 39, 39, 0.80);
-    font-size: 14px;
-    font-weight: 600;
+    font-size: 22px;
+    font-weight: 500;
     line-height: 35px;
+    padding-top: 20px;
 }
 
 /* Deal styles */
@@ -159,8 +162,8 @@
     justify-content: space-between;
     align-items: center;
     background-color: #E554730D;
-    padding-left: 250px;
-    padding-right: 250px;
+    padding-left: 400px;
+    padding-right: 400px;
 }
 
 .deal-description {
@@ -185,14 +188,14 @@
     justify-content: space-between;
     align-items: center;
     margin-top: 50px;
-    margin-bottom: 100px;
+    margin-bottom: 140px;
     margin-left: 240px;
     margin-right: 240px;
 }
 
 .insta-img {
-    width: 220px;
-    height: 240px;
+    width: 340px;
+    height: 380px;
 }
 
 /* Subscribe styles */
@@ -200,7 +203,7 @@
     background-image: url(/images/rectangle\ 9.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 300px;
+    height: 400px;
     margin-left: 240px;
     margin-right: 240px;
     margin-bottom: 100px;
@@ -209,15 +212,16 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 180px;
-    padding-right: 180px;
+    padding-left: 280px;
+    padding-right: 280px;
+    padding-top: 50px;
 }
 .subscribe-txt-field {
     border-radius: 8px;
     border-style: none;
     background: #FFF;
-    width: 430px;
-    height: 56px;
+    width: 680px;
+    height: 60px;
     padding-left: 25px;
     margin-right: 10px;
 }
